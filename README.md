@@ -35,5 +35,4 @@ No additional setup or dependencies are required.
 ## Screenshot
 ![Tic-Tac-Toe Screenshot](assets/gradient-bg.jpg)
 
-## License
-This project is for educational purposes.
+
